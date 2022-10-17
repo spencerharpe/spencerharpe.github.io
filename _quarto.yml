@@ -3,16 +3,41 @@ project:
   output-dir: docs
 
 website:
-  title: "spencerharpe.github.io"
+  title: "Spencer E. Harpe"
   navbar:
+    search: true
     left:
-      - href: index.qmd
+      - file: index.qmd
         text: Home
-      - about.qmd
+      - file: education.qmd
+        text: "Education"
+      - sidebar:scholarship
+      - sidebar:teaching
 
+  sidebar: 
+    - title: "Education"
+      style: "docked"
+      background: "light"
+      contents: 
+        - education.qmd
+    
+    - id: scholarship
+      title: "Scholarship"
+      contents:
+        - scholarship.qmd
+        - projects.qmd
+  
+    - id: teaching
+      title: "Teaching"
+      contents:
+        - teaching.qmd
+        - teachingphilosophy.qmd
+  
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 

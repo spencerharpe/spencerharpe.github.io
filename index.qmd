@@ -1,11 +1,25 @@
 ---
-title: "spencerharpe.github.io"
+title: "Spencer E. Harpe"
+image: SEHarpe-Office-Headshot-Square-2019.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/spencer-harpe-5b141371
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/RxSpencer
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=eBKFYFgAAAAJ&hl=en
+    - icon: envelope
+      text: E-mail
+      href: mailto:spencer.harpe@gmail.com
 ---
 
-This is a Quarto website.
+## Welcome 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Spencer E. Harpe, PharmD, PhD, MPH, FAPhA is Professor of Pharmacy Administration at Midwestern University College of Pharmacy (Downers Grove, IL Campus) where he teaches courses on practice development and evaluation, quality improvement, epidemiology, and statistics. He holds a BS in Pharmaceutical Sciences and a PharmD from the University of Mississippi. Dr. Harpe completed graduate training in health outcomes research at the Ohio State University earning his MS and PhD in Pharmaceutical Administration and an MPH in biostatistics. His scholarly interests include health outcomes research, healthcare quality, educational research, and meta-research. Dr. Harpe frequently collaborates with colleagues in various practice settings to evaluate the outcomes of pharmacy services. He has a keen interest in improving research and evaluation capacity among pharmacists. Dr. Harpe is the 2022-2024 President of the American Pharmacists Association's Academy of Pharmaceutical Research and Science. He is also Deputy Editor for the *Journal of the American Pharmacists Association* and Associate Editor for *Currents in Pharmacy Teaching and Learning*.

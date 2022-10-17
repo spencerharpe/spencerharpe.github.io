@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "spencerharpe.github.io",
+    "title": "Spencer E. Harpe",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Spencer E. Harpe, PharmD, PhD, MPH, FAPhA is Professor of Pharmacy Administration at Midwestern University College of Pharmacy (Downers Grove, IL Campus) where he teaches courses on practice development and evaluation, quality improvement, epidemiology, and statistics. He holds a BS in Pharmaceutical Sciences and a PharmD from the University of Mississippi. Dr. Harpe completed graduate training in health outcomes research at the Ohio State University earning his MS and PhD in Pharmaceutical Administration and an MPH in biostatistics. His scholarly interests include health outcomes research, healthcare quality, educational research, and meta-research. Dr. Harpe frequently collaborates with colleagues in various practice settings to evaluate the outcomes of pharmacy services. He has a keen interest in improving research and evaluation capacity among pharmacists. Dr. Harpe is the 2022-2024 President of the American Pharmacists Association’s Academy of Pharmaceutical Research and Science. He is also Deputy Editor for the Journal of the American Pharmacists Association and Associate Editor for Currents in Pharmacy Teaching and Learning."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Spencer E. Harpe",
+    "section": "Education",
+    "text": "Education\nOhio State University (Columbus, OH)\n\nPhD in Health Outcomes Research (July 2001 - March 2004)\nMPH in Biostatistics ()\nMS in Pharmaceutical Administration (July 2001 - )\n\nUniversity of Mississippi (Oxford, MS)\n\nPharmD cum laude (August 1999 - May 2001)\nBS in Pharmaceutical Sciences magna cum laude (August 1995 - May 1999)\n\nDual concentration: Clinical Pharmacy Practice and Pharmaceutical Marketing & Management"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Throughout this section, the primary basis of my reflection is on didactic teaching in the professional pharmacy program since that forms the majority of my educational efforts. As depicted in the following figure, the framework described by Simpson et al.[1] may be useful when considering my teaching-related activities."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "PhD in Health Outcomes Research (July 2001 - March 2004)\nMPH in Biostatistics ()\nMS in Pharmaceutical Administration (July 2001 - )\n\nUniversity of Mississippi (Oxford, MS)\n\nPharmD cum laude (August 1999 - May 2001)\nBS in Pharmaceutical Sciences magna cum laude (August 1995 - May 1999)\n\nDual concentration: Clinical Pharmacy Practice and Pharmaceutical Marketing & Management"
+  },
+  {
+    "objectID": "scholarship.html",
+    "href": "scholarship.html",
+    "title": "Scholarship Overview",
+    "section": "",
+    "text": "This is an overview of my scholarship efforts."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is a listing of projects"
   }
 ]
