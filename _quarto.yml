@@ -2,8 +2,10 @@ project:
   type: website
   output-dir: docs
 
+from: markdown+emoji
+
 website:
-  title: "Spencer E. Harpe"
+  title: "&lt;seh&gt;"
   navbar:
     search: true
     left:
