@@ -5,25 +5,32 @@ title-block-style: none
 editor: visual
 ---
 
-## Ohio State University (Columbus, OH)
+### Ohio State University (Columbus, OH)
 
-#### PhD in Pharmaceutical Administration - March 2004
+::: {.callout-note icon="false"}
+## PhD in Pharmaceutical Administration (March 2004)
 
-Dissertation title: Assessing health state preferences and the decision to medicate in overactive bladder\
-Advisor: Sheryl Szeinbach, PhD, MS, RPh\
-Major area: Health outcomes research\
-Minor: Epidemiology
+Dissertation title: Assessing health state preferences and the decision to medicate in overactive bladder<br>Advisor: Sheryl Szeinbach, PhD, MS, RPh<br>Major area: Health outcomes research<br>Minor: Epidemiology
+:::
 
-MPH in Biostatistics (December 2003)\
-Project title: Developing an adapted comorbidity index for use with osteoporosis\
-Advisor: Stanley Lemeshow, PhD
+::: {.callout-note icon="false"}
+## MPH (December 2003)
 
-MS in Pharmaceutical Administration (August 2003)
+Project title: Developing an adapted comorbidity index for use with osteoporosis <br>Advisor: Stanley Lemeshow, PhD <br>Concentration: Biostatistics
+:::
 
-#### University of Mississippi (Oxford, MS)
+::: {.callout-note icon="false"}
+## MS in Pharmaceutical Administration (August 2003)
+:::
 
--   PharmD *cum laude* (May 2001)
+### University of Mississippi (Oxford, MS)
 
--   BS in Pharmaceutical Sciences *magna cum laude* (May 1999)
+::: {.callout-note icon="false"}
+## PharmD *cum laude* (May 2001)
+:::
 
-    -   Concentrations: Clinical Pharmacy Practice and Pharmaceutical Marketing & Management
+::: {.callout-note icon="false"}
+## BS in Pharmaceutical Sciences *magna cum laude* (May 1999)
+
+Dual major: Clinical pharmacy practice and Pharmaceutical marketing & management
+:::
