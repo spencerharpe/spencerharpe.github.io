@@ -1,5 +1,5 @@
 ---
-title: "Projects: Educational Scholarship"
+title: "Educational Scholarship"
 editor: visual
 ---
 
@@ -9,11 +9,17 @@ I use the term *educational scholarship* broadly here to encompass the scholarsh
 
 #### Areas of inquiry
 
-*Research and evaluation skills in health professions education*
+* *Research and evaluation skills in health professions education*<br>
 Understanding research and evaluation methods is important in this era of evidence-based practice. These skills are considered integral parts of many professional program curricula. Despite their inclusion, the nature in which these topics are discussed and the expected learning outcomes surrounding these skills (e.g., information consumer vs. information producer) appear to vary widely across professional degree programs. These skills are important from the perspective of evaluating the outcomes of practice activities, which can be vital to advancing practice, optimizing patient care, and improving patient and population outcomes.
 
-*Engagement in research and evaluation* 
+* *Engagement in research and evaluation* <br>
 Incorporating research and evaluation skills into health professions curricula is an important step. It is also important to ensure our professional degree programs and postgraduate training programs help learners develop the interest, confidence, and competence to engage in research and evaluation in their professional careers. This can be an important way to help bridge the gap between research and practice.  Having served as a research mentor to postgraduate trainees and graduate students for many years, I am keenly interested in ways to facilitate future engagement in research and evaluation among health professionals. 
 
-*Diversity, equity, and inclusion in curricula and education scholarship*
+* *Diversity, equity, and inclusion in curricula and education scholarship*<br>
 As health professions educators, we want to ensure that future health professions are ready to provide inclusive care to diverse populations and promote health equity. This requires that these topics be addressed in curricula. For PharmD programs, the Accreditation Council for Pharmacy Education 2016 accreditation standards include cultural sensitivity as a key element of Standard 3 (Approach to patient care). I have collaborated with clinical faculty to examine the inclusion of gender- and sex-related differences in PharmD curricula.  I have also worked with a group of investigators from pharmacy programs around the US to develop the Self-Assessment of Perceived Level of Cultural Competence (SAPLCC), a measure of cultural sensitivity that incorporates several important domains when providing culturally appropriate care. More recently, colleagues and I published a critical review of considerations when collecting demographic data so that key elements of diversity and inclusion are reflected. 
+
+* *Curriculum management through the lenses of implementation science, improvement science and program evaluation*<br>
+Having been through many different curricular revisions and seen curriculum management approaches in several health professions I have long wondered why we do not do a better job of incorporating best practices from areas like implementation science, improvement science, or program evaluation in curriculum development and management. My recent experience going through multiple curricular revisions in short order, serving as curriculum committee chair for two of those, has reinforced my questions in this area. If these topics are important enough to incorporate into our curricula, then we should use them in our work related to the curriculum itself. From program evaluation, one could ask why explicit logic models are not constructed to guide the curriculum, especially programmatic assessment. Improvement science has demonstrated the importance of taking a systematic approach to change and collecting data to guide improvement (e.g., using data dashboards to track achievement of outcomes or levels of entrustment for entrustable professional activities). Successful quality improvement efforts have also identified the importance of incorporating the mindset of quality improvement into day-to-day work of all individuals within an organization, not just those who are “in charge” of quality. For health professions education, it is important for all faculty to know how they contribute to program quality. This is not something that is only the responsibility of assessment directors. Admittedly, there are some programs that have done a better job than others, but it these seem to be more isolated than widespread, at least in pharmacy. In my experience, there is not much discussion and collaboration across professions. This is despite our efforts to increase interprofessional education. In the future, I want to examine those programs that have made efforts to incorporate principles of from these areas when managing their curricula and identify ways to facilitate incorporation of these principles more broadly. 
+
+* *Assessment processes supporting student learning*<br>
+Assessment is a key component of any educational program. Developing an effective culture assessment can help emphasize the value of continuous assessment processes, whether formal assessments or informal or even self-assessment by students. My interests in this area include student self-assessment practices and authenticity in assessment procedures.
