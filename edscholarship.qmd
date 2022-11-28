@@ -1,13 +1,13 @@
 ---
-title: "Educational Scholarship"
+title: ""
 editor: visual
 ---
 
-#### Overview
+### Educational Scholarship
 
 I use the term *educational scholarship* broadly here to encompass the scholarship of assessment, learning, and teaching and more traditional educational research activities. In addition to maintaining active scholarship in this area, I have also been involved in efforts to promote the development of these skills among others health professions faculty. The current lines of inquiry I have in this area are described here.
 
-#### Areas of inquiry
+### Areas of inquiry
 
 * *Research and evaluation skills in health professions education*<br>
 Understanding research and evaluation methods is important in this era of evidence-based practice. These skills are considered integral parts of many professional program curricula. Despite their inclusion, the nature in which these topics are discussed and the expected learning outcomes surrounding these skills (e.g., information consumer vs. information producer) appear to vary widely across professional degree programs. These skills are important from the perspective of evaluating the outcomes of practice activities, which can be vital to advancing practice, optimizing patient care, and improving patient and population outcomes.

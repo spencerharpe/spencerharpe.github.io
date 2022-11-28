@@ -1,13 +1,13 @@
 ---
-title: "Metaresearch"
+title: ""
 editor: visual
 ---
 
-#### Overview
+### Meta-research
 
-Meta-research is the study of various aspects of research itself, including the types of methods used, reporting of research results, and evaluation of research impact.  This area is a relatively new focus for me and is largely a result of my involvement in the scholarly publishing enterprise. After attending presentations on topics related to research on the peer-review process and research dissemination and reflecting on my own experience as an editor, I have begun to consider the potential for meta-research in both pharmacy and health professions education scholarship. Below are a few examples of scholarship efforts I have in this area.<br><br>
+Meta-research is the study of various aspects of research itself, including the types of methods used, reporting of research results, and evaluation of research impact.  This area is a relatively new focus for me and is largely a result of my involvement in the scholarly publishing enterprise. After attending presentations on topics related to research on the peer-review process and research dissemination and reflecting on my own experience as an editor, I have begun to consider the potential for meta-research in both pharmacy and health professions education scholarship. Below are a few examples of scholarship efforts I have in this area.
 
-#### Lines of Inquiry
+### Lines of Inquiry
 
 * *Open science practices in the health professions* <br>
 There has been an expanding body of work examining open science attitudes and practices among researchers in various fields. The health professions have not been a focus of this existing work. There is an understandable tension between the movement to make science more openly available and the perceived need for biomedical research to be somewhat closed and protected from the perspective of protecting patients from undue harm resulting from the use of therapies described in papers that have yet to be peer reviewed. I recently finished collecting data on open science practices and attitudes among pharmacy faculty in the US and analysis is beginning. My goal is to expand on this work by including a broader range of health professions and to examine open science practices in health professions education scholars. 

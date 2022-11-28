@@ -1,8 +1,8 @@
 ---
-title: "Medication Use Research"
+title: ""
 editor: visual
 ---
 
-#### Overview
+### Medication Use Research
 
 Being a diverse area of study, medication use research may look at issues affecting individual patients or issues at the larger organizational or healthcare system level. As mentioned previously, my scholarship efforts have shifted over time such that this is not a major area of focus. I continue to maintain some level of involvement primarily through collaboration with clinicians and mentoring students or postgraduate trainees. My past work in this area has included a range of topics including medication adherence,  medication safety,  outcomes of medication use, evaluation of medication use processes, and developing methods to support research in this area. The main ongoing project I have in this area is a Strategic Prevention Framework for Prescription Drugs grant from SAMHSA to the State of Illinois where I am the project evaluator. This five-year $1.92 million grant is focused on developing educational programs to improve opioid prescribing by healthcare providers and prevent opioid use and misuse among emerging adults.
