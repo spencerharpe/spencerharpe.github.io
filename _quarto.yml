@@ -27,7 +27,9 @@ website:
       title: "Scholarship"
       contents:
         - scholarship.qmd
-        - projects.qmd
+        - edscholarship.qmd
+        - metaresearch.qmd
+        - meduseresearch.qmd
   
     - id: teaching
       title: "Teaching"
