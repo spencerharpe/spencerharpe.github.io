@@ -13,10 +13,6 @@ website:
         text: "Home"
       - file: education.qmd
         text: "Education"
-      - file: scholarship.qmd
-        text: "Scholarship"
-      - file: teaching.qmd
-        text: "Teaching"
       - sidebar:scholarship
       - sidebar:teaching
 
